@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Container } from "@mui/material";
 import Navbar from "./components/Navbar";
 import BookList from "./components/BookList";
-import lib from "./images/lib2.jpg";
+import lib from "./images/library_image.jpg";
 import AddBook from "./components/AddBook";
 import EditBook from "./components/EditBook";
 
