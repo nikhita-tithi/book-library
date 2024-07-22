@@ -143,9 +143,10 @@ const BookCard: React.FC<IBookCardProps> = (props) => {
           </Button>
           <Button
             onClick={handleDelete}
-            color="warning"
+            color="inherit"
             autoFocus
             variant="contained"
+            className={styles.buttons}
           >
             Delete
           </Button>
