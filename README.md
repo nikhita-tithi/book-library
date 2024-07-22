@@ -1,4 +1,4 @@
-# book-library
+# Book-Library
 A full-stack book library web application 
 
 # Tech Stack
