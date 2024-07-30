@@ -43,6 +43,7 @@ npm i
 # **Run node backend in other shell**
 
 ```sh
+cd server
 npm start
 ```
 
